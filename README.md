@@ -1,5 +1,7 @@
 Tableau: Tripadvisor Hotel Analysis
+
 ➡️ View the Live, Interactive Dashboard on Tableau Public ⬅️
+
 Project Overview
 This project is an interactive dashboard created in Tableau to analyze traveler trends and hotel performance based on data from Tripadvisor. The dashboard allows users to dynamically filter by hotel name, traveler type, and rating to uncover insights into the guest experience.
 
