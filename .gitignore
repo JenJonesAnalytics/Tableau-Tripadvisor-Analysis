@@ -1,0 +1,5 @@
+# Gitignore for Tableau
+*.tde
+*.hyper
+*.twb~
+*.log
