@@ -26,7 +26,9 @@ Data Visualization: Built bar charts, tree maps, and text-based KPIs.
 Data Analysis: Sliced and filtered data to identify trends and correlations.
 
 Source Files
-Tableau Workbook: Tripadvisor_Hotels.twbx (Contains the full dashboard and data. Note: You will need to change this name to match the .twbx file you upload.)
+
+Tableau Workbook: Tripadvisor_Analysis_Unhidden.twbx
+Raw Data:tripadvisor_hotels_file.csv
 
 Acknowledgments
 The foundation for this project was based on an excellent public tutorial. The analysis and "Key Insights" are my own.
